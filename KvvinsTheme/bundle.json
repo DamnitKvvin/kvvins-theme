@@ -1,40 +1,24 @@
 {
   "type": "darker",
   "semantic": {
-    "BACKGROUND_PRIMARY":          { "type": "color", "value": "#0b1424" },
-    "BACKGROUND_SECONDARY":        { "type": "color", "value": "#101c30" },
-    "BACKGROUND_SECONDARY_ALT":    { "type": "color", "value": "#132038" },
-    "BACKGROUND_TERTIARY":         { "type": "color", "value": "#0a1220" },
-    "BACKGROUND_ACCENT":           { "type": "color", "value": "#162640" },
-    "BACKGROUND_FLOATING":         { "type": "color", "value": "#121e34" },
-    "BACKGROUND_NESTED_FLOATING":  { "type": "color", "value": "#0e1a2e" },
-    "BACKGROUND_MOBILE_PRIMARY":   { "type": "color", "value": "#0b1424" },
+    "BACKGROUND_PRIMARY": { "type": "color", "value": "#0b1424" },
+    "BACKGROUND_SECONDARY": { "type": "color", "value": "#101c30" },
+    "BACKGROUND_SECONDARY_ALT": { "type": "color", "value": "#0f1a2c" },
+    "BACKGROUND_TERTIARY": { "type": "color", "value": "#0b1424" },
+    "BACKGROUND_ACCENT": { "type": "color", "value": "#152238" },
+    "BACKGROUND_FLOATING": { "type": "color", "value": "#101c30" },
+    "BACKGROUND_MOBILE_PRIMARY": { "type": "color", "value": "#0b1424" },
     "BACKGROUND_MOBILE_SECONDARY": { "type": "color", "value": "#101c30" },
-    "BACKGROUND_MODIFIER_HOVER":   { "type": "color", "value": "#1a2d4a" },
-    "BACKGROUND_MODIFIER_ACTIVE":  { "type": "color", "value": "#1e3555" },
-    "BACKGROUND_MODIFIER_SELECTED":{ "type": "color", "value": "#1e3555" },
-    "BACKGROUND_MODIFIER_ACCENT":  { "type": "color", "value": "#243b5c" },
-
-    "TEXT_NORMAL":                 { "type": "color", "value": "#e8eef7" },
-    "TEXT_MUTED":                  { "type": "color", "value": "#8b9bb4" },
-    "HEADER_PRIMARY":              { "type": "color", "value": "#f0f4fa" },
-    "HEADER_SECONDARY":            { "type": "color", "value": "#a8b8d0" },
-    "CHANNELS_DEFAULT":            { "type": "color", "value": "#7a8da8" },
-
-    "INTERACTIVE_NORMAL":          { "type": "color", "value": "#9aabc4" },
-    "INTERACTIVE_HOVER":           { "type": "color", "value": "#c5d4e8" },
-    "INTERACTIVE_ACTIVE":          { "type": "color", "value": "#dce6f5" },
-    "INTERACTIVE_MUTED":           { "type": "color", "value": "#5a6d88" },
-
-    "TEXT_LINK":                   { "type": "color", "value": "#7ba3d4" },
-    "TEXT_LINK_LOW_SATURATION":    { "type": "color", "value": "#6b93c4" },
-
-    "CHANNELTEXTAREA_BACKGROUND":  { "type": "color", "value": "#0f1a2c" },
-    "SCROLLBAR_THIN_THUMB":        { "type": "color", "value": "#2a4060" },
-    "SCROLLBAR_THIN_TRACK":        { "type": "color", "value": "transparent" },
-    "SCROLLBAR_AUTO_THUMB":        { "type": "color", "value": "#2a4060" },
-    "SCROLLBAR_AUTO_TRACK":        { "type": "color", "value": "#0f1a2c" }
-  },
-  "raw": {},
-  "background": {}
+    "CHANNELTEXTAREA_BACKGROUND": { "type": "color", "value": "#101c30" },
+    "TEXT_NORMAL": { "type": "color", "value": "#e8eef7" },
+    "TEXT_MUTED": { "type": "color", "value": "#8b9bb4" },
+    "TEXT_LINK": { "type": "color", "value": "#7ba3d4" },
+    "INTERACTIVE_NORMAL": { "type": "color", "value": "#b9bbbe" },
+    "INTERACTIVE_HOVER": { "type": "color", "value": "#7ba3d4" },
+    "INTERACTIVE_ACTIVE": { "type": "color", "value": "#7ba3d4" },
+    "SCROLLBAR_THIN_THUMB": { "type": "color", "value": "#7ba3d4" },
+    "SCROLLBAR_THIN_TRACK": { "type": "color", "value": "transparent" },
+    "HEADER_PRIMARY": { "type": "color", "value": "#e8eef7" },
+    "HEADER_SECONDARY": { "type": "color", "value": "#8b9bb4" }
+  }
 }
