@@ -3,11 +3,11 @@
   "id": "kvvin.navy",
   "type": "theme",
   "main": "bundle.json",
-  "description": "A deep navy blue theme with soft, muted accents.",
-  "version": "1.0.0",
+  "description": "A subtle navy blue theme",
+  "version": "1.1.0",
   "authors": [
     {
-      "name": "Kvvin",
+      "name": "Kvvins",
       "id": "903723657707257857"
     }
   ]
